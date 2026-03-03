@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project develops a **scalable distributed machine learning pipeline** to classify food products into **NOVA processing groups (1–4)** using the Open Food Facts dataset (>4GB).
-The main code file is **ML_and_BigData_Project_OpenFoodFacts_NOVA**
+The main code file is **ML_and_BigData_Project_OpenFoodFacts_NOVA.ipynb**
 
 ### Objectives
 
